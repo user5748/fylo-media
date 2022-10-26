@@ -1,0 +1,92 @@
+.header {
+    padding-bottom: 108px;
+}
+
+.nav {
+    margin: 3rem 0 9rem 0;
+}
+
+.nav .nav_menu {
+    display: flex;
+    align-items: center;
+}
+
+.nav .nav_menu .nav_menu-bar li {
+    margin: 0 0 0 3rem;
+}
+
+.nav .nav_menu .nav_menu-bar li a {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #07043b;
+    text-decoration: none;
+
+}
+
+.fa-bars {
+    display: none;
+}
+
+
+.hero .hero_content h1 {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 39px;
+    line-height: 60px;
+    color: #07043b;
+}
+
+.text1 {
+    margin-top: 4rem;
+}
+
+.hero .hero_content p {
+    margin: 3rem 0 0 0;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.53125px;
+    color: #07043b;
+}
+
+.hero .hero_content .hero_content-btns {
+    display: flex;
+    align-items: center;
+    margin: 3rem 0 0 0;
+}
+
+.hero .hero_content .hero_content-btns button {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #fff;
+    width: 140px;
+    height: 45px;
+    border: 2px solid #2f65f8;
+    background: #2f65f8;
+    box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.15925);
+    border-radius: 3.125px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.hero .hero_content .hero_content-btns input {
+    padding-left: 1rem;
+    margin-top: 25px;
+    margin-right: 16px;
+    border: none;
+    box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.15925);
+    border-radius: 3.125px;
+    width: 320px;
+    height: 45px;
+    outline: none;
+}
